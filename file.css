@@ -1,0 +1,16 @@
+header{
+  background-image:url(img/pattern.png);
+  width: auto;
+  padding: 3%;
+  background-color: #007FFF;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+header img{
+    width: 200px;
+    
+}
