@@ -12,5 +12,20 @@ header{
 
 header img{
     width: 200px;
-    
+}
+
+main h1{
+    margin-bottom: 0;
+}
+
+#blue{
+    color: #00FFFF	;
+}
+
+.opaco{
+    color: rgba(0,0,0, 0.5);
+}
+
+.piccolo{
+    font-size: x-small;
 }
