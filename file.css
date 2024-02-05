@@ -34,26 +34,31 @@ mark{
     background-color: yellow;
 }
 
-thead{
-    background-color: #007FFF;    
+.blue{
+    background-color:blue ;
 }
 
-table{
-    background-color: #007FFF;
-   
+.white{
+    color: white;
 }
 
 .centrale{
-    background-color: white;
+    padding-left: 250px;
+    padding-right: 250px;
 }
+
+.titolo{
+    width: 100%;
+    position: relative;
+    right: 200px;    
+    }
+    
+    .lightblue{
+        background-color: #007FFF;
+    }
    
-
-
-.altezza{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
+    
+    
 aside p{
     margin-top: 30px;
     margin-bottom: 10px;
