@@ -42,3 +42,22 @@ thead{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+aside p{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+aside div{
+    width: 200px;
+}
+aside img{
+    width: 200px;
+}
+
+aside span{
+   color: white;
+   font-weight: bold;
+    position: absolute;
+    left: 160px;
+}
